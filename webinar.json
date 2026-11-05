@@ -1,32 +1,7 @@
 {
-  "aggiornato_il": "2026-11-05T12:56+01:00",
+  "aggiornato_il": "2026-11-05T20:37+01:00",
   "categoria": "ingegneri",
   "webinar": [
-    {
-      "id": "h25-2026-11-05-progettare-a-basso-spessore-acustica-e-impianti-ra",
-      "titolo": "Progettare a basso spessore: acustica e impianti radianti nel Sistema Pavimento",
-      "organizzatore": "H25",
-      "piattaforma": "H25",
-      "data_inizio": "2026-11-05T14:30:00+01:00",
-      "data_fine": "2026-11-05T17:30:00+01:00",
-      "durata_ore": 3.0,
-      "orario_indicato": true,
-      "cfp": 3,
-      "stato_cfp": "accreditato",
-      "tipologia": "convegno",
-      "validita": "nazionale",
-      "codice_cni": null,
-      "area_tematica": [
-        "energia",
-        "acustica"
-      ],
-      "deontologico": false,
-      "accesso": "registrazione_gratuita",
-      "costo_indicato": true,
-      "link": "https://www.h25.it/events/progettare-a-basso-spessore-acustica-e-impianti-radianti-nel-sistema-pavimento",
-      "fonte_url": "https://www.h25.it/events/progettare-a-basso-spessore-acustica-e-impianti-radianti-nel-sistema-pavimento",
-      "verificato_il": "2026-11-05"
-    },
     {
       "id": "anit-2026-11-05-sostenibilit-e-sicurezza-nei-sistemi-a-cappotto",
       "titolo": "Sostenibilità e sicurezza nei sistemi a cappotto",
@@ -49,31 +24,6 @@
       "costo_indicato": true,
       "link": "https://www.anit.it/prodotto/convegni/efficienza-energetica-convegni/sostenibilita-e-sicurezza-nei-sistemi-a-cappotto/",
       "fonte_url": "https://www.anit.it/prodotto/convegni/efficienza-energetica-convegni/sostenibilita-e-sicurezza-nei-sistemi-a-cappotto/",
-      "verificato_il": "2026-11-05"
-    },
-    {
-      "id": "elearningonweb-2026-11-05-patologie-delle-murature-in-contesti-sismici-e-non",
-      "titolo": "Patologie delle murature in contesti sismici e non sismici: diagnosi, materiali e tecniche di consolidamento",
-      "organizzatore": "elearningonweb",
-      "piattaforma": "elearningonweb",
-      "data_inizio": "2026-11-05T16:45:00+01:00",
-      "data_fine": "2026-11-05T19:15:00+01:00",
-      "durata_ore": 2.5,
-      "orario_indicato": true,
-      "cfp": 2,
-      "stato_cfp": "accreditato",
-      "tipologia": "altro",
-      "validita": "nazionale",
-      "codice_cni": null,
-      "area_tematica": [
-        "strutture",
-        "sismica"
-      ],
-      "deontologico": false,
-      "accesso": "registrazione_gratuita",
-      "costo_indicato": true,
-      "link": "https://www.elearningonweb.com/it/-/cvr/patologie-delle-murature-in-contesti-sismici-e-non-sismici-diagnosi-materiali-e-tecniche-di-consolidamento-novembre-2026",
-      "fonte_url": "https://www.elearningonweb.com/it/-/cvr/patologie-delle-murature-in-contesti-sismici-e-non-sismici-diagnosi-materiali-e-tecniche-di-consolidamento-novembre-2026",
       "verificato_il": "2026-11-05"
     },
     {
@@ -662,6 +612,28 @@
       "verificato_il": "2026-11-05"
     },
     {
+      "id": "h25-2026-11-23-come-presentare-una-pratica-ad-un-ufficio-pubblico",
+      "titolo": "Come presentare una pratica ad un ufficio pubblico e farsela accettare rapidamente: VI SVELIAMO IL SEGRETO",
+      "organizzatore": "H25",
+      "piattaforma": "H25",
+      "data_inizio": "2026-11-23T15:00:00+01:00",
+      "data_fine": "2026-11-23T18:00:00+01:00",
+      "durata_ore": 3.0,
+      "orario_indicato": true,
+      "cfp": 3,
+      "stato_cfp": "accreditato",
+      "tipologia": "convegno",
+      "validita": "nazionale",
+      "codice_cni": null,
+      "area_tematica": [],
+      "deontologico": false,
+      "accesso": "registrazione_gratuita",
+      "costo_indicato": true,
+      "link": "https://www.h25.it/events/come-presentare-una-pratica-ad-un-ufficio-pubblico-e-farsela-accettare-rapidamente-vi-sveliamo-il-segreto",
+      "fonte_url": "https://www.h25.it/events/come-presentare-una-pratica-ad-un-ufficio-pubblico-e-farsela-accettare-rapidamente-vi-sveliamo-il-segreto",
+      "verificato_il": "2026-11-05"
+    },
+    {
       "id": "elearningonweb-2026-11-23-climatizzazione-radiante-a-basso-spessore-soluzion",
       "titolo": "Climatizzazione radiante a basso spessore: soluzioni progettuali per efficienza energetica e comfort acustico",
       "organizzatore": "elearningonweb",
@@ -856,31 +828,6 @@
       "verificato_il": "2026-11-05"
     },
     {
-      "id": "elearningonweb-2026-12-01-serramenti-minimali-e-involucro-trasparente-design",
-      "titolo": "Serramenti minimali e involucro trasparente: design, tecnologia e prestazioni per l’architettura contemporanea",
-      "organizzatore": "elearningonweb",
-      "piattaforma": "elearningonweb",
-      "data_inizio": "2026-12-01T16:45:00+01:00",
-      "data_fine": "2026-12-01T19:15:00+01:00",
-      "durata_ore": 2.5,
-      "orario_indicato": true,
-      "cfp": 2,
-      "stato_cfp": "accreditato",
-      "tipologia": "altro",
-      "validita": "nazionale",
-      "codice_cni": null,
-      "area_tematica": [
-        "strutture",
-        "acustica"
-      ],
-      "deontologico": false,
-      "accesso": "registrazione_gratuita",
-      "costo_indicato": true,
-      "link": "https://www.elearningonweb.com/it/-/alpilegno/serramenti-minimali-e-involucro-trasparente-design-tecnologia-e-prestazioni-per-larchitettura-contemporanea-ottobre-2026",
-      "fonte_url": "https://www.elearningonweb.com/it/-/alpilegno/serramenti-minimali-e-involucro-trasparente-design-tecnologia-e-prestazioni-per-larchitettura-contemporanea-ottobre-2026",
-      "verificato_il": "2026-11-05"
-    },
-    {
       "id": "elearningonweb-2026-12-02-efficientamento-termo-acustico-nell-edilizia-legge",
       "titolo": "Efficientamento termo‑acustico nell'edilizia leggera. Focus su sottofondi e sistemi radianti a secco",
       "organizzatore": "elearningonweb",
@@ -1014,7 +961,7 @@
       "orario_indicato": true,
       "cfp": 2,
       "stato_cfp": "accreditato",
-      "tipologia": "corso",
+      "tipologia": "altro",
       "validita": "nazionale",
       "codice_cni": null,
       "area_tematica": [
@@ -1030,12 +977,12 @@
       "verificato_il": "2026-11-05"
     },
     {
-      "id": "elearningonweb-2026-12-14-fse-approccio-ingegneristico-della-sicurezza-esemp",
+      "id": "elearningonweb-2026-12-15-fse-approccio-ingegneristico-della-sicurezza-esemp",
       "titolo": "FSE - Approccio ingegneristico della Sicurezza. Esempi pratici con calcolo manuale senza il ricorso di software",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
-      "data_inizio": "2026-12-14T16:45:00+01:00",
-      "data_fine": "2026-12-14T19:15:00+01:00",
+      "data_inizio": "2026-12-15T16:45:00+01:00",
+      "data_fine": "2026-12-15T19:15:00+01:00",
       "durata_ore": 2.5,
       "orario_indicato": true,
       "cfp": 2,
