@@ -1,82 +1,7 @@
 {
-  "aggiornato_il": "2026-11-23T09:11+01:00",
+  "aggiornato_il": "2026-11-24T11:26+01:00",
   "categoria": "ingegneri",
   "webinar": [
-    {
-      "id": "cni-2026-11-23-l-idrogeno-nella-transizione-energetica-dalla-circ",
-      "titolo": "L’idrogeno nella transizione energetica: dalla circolarità del carbonio all’intensificazione di processo",
-      "organizzatore": "Consiglio Nazionale Ingegneri",
-      "piattaforma": "Consiglio Nazionale Ingegneri",
-      "data_inizio": "2026-11-23T00:00:00+01:00",
-      "data_fine": null,
-      "durata_ore": null,
-      "orario_indicato": false,
-      "cfp": 2,
-      "stato_cfp": "accreditato",
-      "tipologia": "convegno",
-      "validita": "nazionale",
-      "codice_cni": "26c31183",
-      "area_tematica": [
-        "energia"
-      ],
-      "deontologico": true,
-      "accesso": "registrazione_gratuita",
-      "costo_indicato": false,
-      "link": "https://www.cni.it/eventi/dettaglievento/22181/-/lidrogeno-nella-transizione-energetica-dalla-circolarita-del-carbonio-allintensificazione-di-processo",
-      "fonte_url": "https://www.cni.it/eventi/dettaglievento/22181/-/lidrogeno-nella-transizione-energetica-dalla-circolarita-del-carbonio-allintensificazione-di-processo",
-      "verificato_il": "2026-11-23"
-    },
-    {
-      "id": "elearningonweb-2026-11-23-progettare-il-comfort-estivo-architettura-material",
-      "titolo": "Progettare il comfort estivo: architettura, materiali e strategie per l’adattamento climatico",
-      "organizzatore": "elearningonweb",
-      "piattaforma": "elearningonweb",
-      "data_inizio": "2026-11-23T13:45:00+01:00",
-      "data_fine": "2026-11-23T16:15:00+01:00",
-      "durata_ore": 2.5,
-      "orario_indicato": true,
-      "cfp": 2,
-      "stato_cfp": "accreditato",
-      "tipologia": "altro",
-      "validita": "nazionale",
-      "codice_cni": null,
-      "area_tematica": [
-        "energia",
-        "antincendio",
-        "sicurezza"
-      ],
-      "deontologico": false,
-      "accesso": "registrazione_gratuita",
-      "costo_indicato": true,
-      "link": "https://www.elearningonweb.com/it/-/naturalia-bau/progettare-il-comfort-estivo-architettura-materiali-e-strategie-per-ladattamento-climatico-novembre-2026",
-      "fonte_url": "https://www.elearningonweb.com/it/-/naturalia-bau/progettare-il-comfort-estivo-architettura-materiali-e-strategie-per-ladattamento-climatico-novembre-2026",
-      "verificato_il": "2026-11-23"
-    },
-    {
-      "id": "elearningonweb-2026-11-23-climatizzazione-radiante-a-basso-spessore-soluzion",
-      "titolo": "Climatizzazione radiante a basso spessore: soluzioni progettuali per efficienza energetica e comfort acustico",
-      "organizzatore": "elearningonweb",
-      "piattaforma": "elearningonweb",
-      "data_inizio": "2026-11-23T16:45:00+01:00",
-      "data_fine": "2026-11-23T19:15:00+01:00",
-      "durata_ore": 2.5,
-      "orario_indicato": true,
-      "cfp": 2,
-      "stato_cfp": "accreditato",
-      "tipologia": "altro",
-      "validita": "nazionale",
-      "codice_cni": null,
-      "area_tematica": [
-        "energia",
-        "acustica"
-      ],
-      "deontologico": false,
-      "accesso": "registrazione_gratuita",
-      "costo_indicato": true,
-      "link": "https://www.elearningonweb.com/it/-/bampi/climatizzazione-radiante-a-basso-spessore-soluzioni-progettuali-per-efficienza-energetica-e-comfort-acustico-novembre-2026",
-      "fonte_url": "https://www.elearningonweb.com/it/-/bampi/climatizzazione-radiante-a-basso-spessore-soluzioni-progettuali-per-efficienza-energetica-e-comfort-acustico-novembre-2026",
-      "verificato_il": "2026-11-23"
-    },
     {
       "id": "cni-2026-11-24-efficienza-energetica-degli-impianti-elettrici",
       "titolo": "Efficienza energetica degli impianti elettrici",
@@ -99,7 +24,7 @@
       "costo_indicato": false,
       "link": "https://www.cni.it/eventi/dettaglievento/22182/-/efficienza-energetica-degli-impianti-elettrici",
       "fonte_url": "https://www.cni.it/eventi/dettaglievento/22182/-/efficienza-energetica-degli-impianti-elettrici",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "anit-2026-11-24-comfort-acustico-interno-con-i-controsoffitti-a-se",
@@ -124,11 +49,11 @@
       "costo_indicato": true,
       "link": "https://www.anit.it/prodotto/convegni/acustica-edilizia-dai-limiti-al-comfort/comfort-acustico-interno-con-i-controsoffitti-a-secco/",
       "fonte_url": "https://www.anit.it/prodotto/convegni/acustica-edilizia-dai-limiti-al-comfort/comfort-acustico-interno-con-i-controsoffitti-a-secco/",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-11-24-edifici-resilienti-e-scarsit-idrica-progettazione",
-      "titolo": "Edifici resilienti e scarsità idrica: progettazione, conformità CAM e sistemi avanzati di recupero",
+      "id": "elearningonweb-2026-11-24-edifici-resilienti-e-scarsit-idrica-edifici-resili",
+      "titolo": "Edifici resilienti e scarsità idrica Edifici resilienti e scarsità idrica: progettazione, conformità CAM e sistemi avanzati di recupero - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-11-24T13:45:00+01:00",
@@ -148,32 +73,7 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/starplast/edifici-resilienti-e-scarsita-idrica-progettazione-conformita-cam-e-sistemi-avanzati-di-recupero-novembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/starplast/edifici-resilienti-e-scarsita-idrica-progettazione-conformita-cam-e-sistemi-avanzati-di-recupero-novembre-2026",
-      "verificato_il": "2026-11-23"
-    },
-    {
-      "id": "harpaceas-2026-11-24-seminario-appalti-pubblici-qualificazione-acn-e-ge",
-      "titolo": "Seminario \"Appalti pubblici: qualificazione ACN e gestione digitale dei dati per l’evoluzione dei processi della Pubblica Amministrazione\" - Forlimpopoli (FC) | 3 CFP",
-      "organizzatore": "Harpaceas",
-      "piattaforma": "Harpaceas",
-      "data_inizio": "2026-11-24T14:15:00+01:00",
-      "data_fine": "2026-11-24T18:00:00+01:00",
-      "durata_ore": 3.8,
-      "orario_indicato": true,
-      "cfp": 3,
-      "stato_cfp": "accreditato",
-      "tipologia": "seminario",
-      "validita": "da_verificare",
-      "codice_cni": null,
-      "area_tematica": [
-        "bim_digitale",
-        "appalti_normativa"
-      ],
-      "deontologico": false,
-      "accesso": "registrazione_gratuita",
-      "costo_indicato": true,
-      "link": "https://www.harpaceas.it/eventi/seminario-appalti-pubblici-qualificazione-acn-e-gestione-digitale-dei-dati-per-levoluzione-dei-processi-della-pubblica-amministrazione-forlimpopoli-fc-3-cfp",
-      "fonte_url": "https://www.harpaceas.it/eventi/seminario-appalti-pubblici-qualificazione-acn-e-gestione-digitale-dei-dati-per-levoluzione-dei-processi-della-pubblica-amministrazione-forlimpopoli-fc-3-cfp",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "anit-2026-11-24-le-facciate-ventilate-prestazioni-energetiche-e-so",
@@ -184,7 +84,7 @@
       "data_fine": "2026-11-24T17:15:00+01:00",
       "durata_ore": 2.2,
       "orario_indicato": true,
-      "cfp": 3,
+      "cfp": 2,
       "stato_cfp": "accreditato",
       "tipologia": "convegno",
       "validita": "da_verificare",
@@ -197,7 +97,7 @@
       "costo_indicato": true,
       "link": "https://www.anit.it/prodotto/convegni/efficienza-energetica-convegni/le-facciate-ventilate-prestazioni-energetiche-e-soluzioni-tecnologiche/",
       "fonte_url": "https://www.anit.it/prodotto/convegni/efficienza-energetica-convegni/le-facciate-ventilate-prestazioni-energetiche-e-soluzioni-tecnologiche/",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "promozioneacciaio-2026-11-25-la-sostenibilit-al-centro-del-progetto-l-analisi-l",
@@ -221,11 +121,11 @@
       "costo_indicato": true,
       "link": "https://www.promozioneacciaio.it/corsieventi/la-sostenibilita-al-centro-del-progetto-lanalisi-lca-come-guida-per-gli-edifici-del-futuro/",
       "fonte_url": "https://www.promozioneacciaio.it/corsieventi/la-sostenibilita-al-centro-del-progetto-lanalisi-lca-come-guida-per-gli-edifici-del-futuro/",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-11-25-la-forma-della-pietra-identit-del-costruire-ed-app",
-      "titolo": "La forma della pietra: identità del costruire ed applicazioni della pietra naturalmente ricostruita",
+      "id": "elearningonweb-2026-11-25-la-forma-della-pietra-la-forma-della-pietra-identi",
+      "titolo": "La forma della pietra La forma della pietra: identità del costruire ed applicazioni della pietra naturalmente ricostruita - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-11-25T13:45:00+01:00",
@@ -243,11 +143,11 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/colmef/la-forma-della-pietra-identita-del-costruire-ed-applicazioni-della-pietra-naturalmente-ricostruita-novembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/colmef/la-forma-della-pietra-identita-del-costruire-ed-applicazioni-della-pietra-naturalmente-ricostruita-novembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-11-25-progettare-e-costruire-un-boutique-hotel-in-xlam-a",
-      "titolo": "Progettare e costruire un boutique hotel in XLAM. Architettura e Natura tra sostenibilità, integrazione ambientale e qualità costruttiva",
+      "id": "elearningonweb-2026-11-25-progettare-e-costruire-un-boutique-hotel-in-xlam-p",
+      "titolo": "Progettare e costruire un boutique hotel in XLAM Progettare e costruire un boutique hotel in XLAM. Architettura e Natura tra sostenibilità, integrazione ambientale e qualità costruttiva - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-11-25T16:45:00+01:00",
@@ -260,19 +160,18 @@
       "validita": "nazionale",
       "codice_cni": null,
       "area_tematica": [
-        "strutture",
-        "sicurezza"
+        "strutture"
       ],
       "deontologico": false,
       "accesso": "registrazione_gratuita",
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/costantini-legno/progettare-e-costruire-un-boutique-hotel-in-xlam-architettura-e-natura-tra-sostenibilita-integrazione-ambientale-e-qualita-costruttiva-novembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/costantini-legno/progettare-e-costruire-un-boutique-hotel-in-xlam-architettura-e-natura-tra-sostenibilita-integrazione-ambientale-e-qualita-costruttiva-novembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-11-26-schermatura-solare-dinamica-strategie-progettuali",
-      "titolo": "Schermatura solare dinamica: strategie progettuali per comfort estivo, efficienza energetica e adattamento climatico",
+      "id": "elearningonweb-2026-11-26-schermatura-solare-dinamica-schermatura-solare-din",
+      "titolo": "Schermatura solare dinamica Schermatura solare dinamica: strategie progettuali per comfort estivo, efficienza energetica e adattamento climatico - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-11-26T13:45:00+01:00",
@@ -292,7 +191,7 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/somfy/schermatura-solare-dinamica-strategie-progettuali-per-comfort-estivo-efficienza-energetica-e-adattamento-climatico-novembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/somfy/schermatura-solare-dinamica-strategie-progettuali-per-comfort-estivo-efficienza-energetica-e-adattamento-climatico-novembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "anit-2026-11-26-sostenibilit-e-sicurezza-nei-sistemi-a-cappotto",
@@ -316,7 +215,7 @@
       "costo_indicato": true,
       "link": "https://www.anit.it/prodotto/convegni/efficienza-energetica-convegni/sostenibilita-e-sicurezza-nei-sistemi-a-cappotto-rm_vt/",
       "fonte_url": "https://www.anit.it/prodotto/convegni/efficienza-energetica-convegni/sostenibilita-e-sicurezza-nei-sistemi-a-cappotto-rm_vt/",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "cni-2026-11-27-comportamento-meccanico-e-trattamento-dei-material",
@@ -338,7 +237,7 @@
       "costo_indicato": false,
       "link": "https://www.cni.it/eventi/dettaglievento/22186/-/comportamento-meccanico-e-trattamento-dei-materiali-metallici-nellindustria-approfondimenti-per-gli-ingegneri-industriali",
       "fonte_url": "https://www.cni.it/eventi/dettaglievento/22186/-/comportamento-meccanico-e-trattamento-dei-materiali-metallici-nellindustria-approfondimenti-per-gli-ingegneri-industriali",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "anit-2026-11-27-sistema-a-cappotto-senza-compromessi-le-scelte-che",
@@ -362,7 +261,7 @@
       "costo_indicato": true,
       "link": "https://www.anit.it/prodotto/convegni/efficienza-energetica-convegni/sistema-a-cappotto-senza-compromessi-le-scelte-che-fanno-la-differenza/",
       "fonte_url": "https://www.anit.it/prodotto/convegni/efficienza-energetica-convegni/sistema-a-cappotto-senza-compromessi-le-scelte-che-fanno-la-differenza/",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "cni-2026-11-30-le-macchine-dalla-direttiva-2006-42-ce-al-nuovo-re",
@@ -384,11 +283,11 @@
       "costo_indicato": false,
       "link": "https://www.cni.it/eventi/dettaglievento/22183/-/le-macchine-dalla-direttiva-2006-42-ce-al-nuovo-regolamento-ue-2023-1230",
       "fonte_url": "https://www.cni.it/eventi/dettaglievento/22183/-/le-macchine-dalla-direttiva-2006-42-ce-al-nuovo-regolamento-ue-2023-1230",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-11-30-calcestruzzo-aerato-autoclavato-strategie-progettu",
-      "titolo": "Calcestruzzo aerato autoclavato: strategie progettuali per l'involucro ad alte prestazioni tra Direttiva Europea e PNRR",
+      "id": "elearningonweb-2026-11-30-calcestruzzo-aerato-autoclavato-calcestruzzo-aerat",
+      "titolo": "Calcestruzzo aerato autoclavato Calcestruzzo aerato autoclavato: strategie progettuali per l'involucro ad alte prestazioni tra Direttiva Europea e PNRR - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-11-30T16:45:00+01:00",
@@ -409,7 +308,7 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/ytong-xella-italia/calcestruzzo-aerato-autoclavato-strategie-progettuali-per-linvolucro-ad-alte-prestazioni-tra-direttiva-europea-e-pnrr-novembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/ytong-xella-italia/calcestruzzo-aerato-autoclavato-strategie-progettuali-per-linvolucro-ad-alte-prestazioni-tra-direttiva-europea-e-pnrr-novembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "cni-2026-12-01-building-information-modeling-e-intelligenza-artif",
@@ -434,11 +333,11 @@
       "costo_indicato": false,
       "link": "https://www.cni.it/eventi/dettaglievento/22188/-/building-information-modeling-e-intelligenza-artificiale-nel-campo-delle-infrastrutture-aeroportuali",
       "fonte_url": "https://www.cni.it/eventi/dettaglievento/22188/-/building-information-modeling-e-intelligenza-artificiale-nel-campo-delle-infrastrutture-aeroportuali",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-12-01-muratura-armata-in-zona-sismica-progettazione-pres",
-      "titolo": "Muratura armata in zona sismica: progettazione, prestazioni e soluzioni costruttive secondo le NTC 2018",
+      "id": "elearningonweb-2026-12-01-muratura-armata-in-zona-sismica-muratura-armata-in",
+      "titolo": "Muratura armata in zona sismica Muratura armata in zona sismica: progettazione, prestazioni e soluzioni costruttive secondo le NTC 2018 - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-01T13:45:00+01:00",
@@ -459,7 +358,7 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/t2d/muratura-armata-in-zona-sismica-progettazione-prestazioni-e-soluzioni-costruttive-secondo-le-ntc-2018-dicembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/t2d/muratura-armata-in-zona-sismica-progettazione-prestazioni-e-soluzioni-costruttive-secondo-le-ntc-2018-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "fondazioneinarcassa-2026-12-01-innovazione-e-gestione-dei-processi-professionali",
@@ -484,7 +383,7 @@
       "costo_indicato": false,
       "link": "https://fondazioneinarcassa.it/it/seminari/innovazione-gestione-processi-professionali-strumenti-operativi-casi-pratici-nuove-tecnologie",
       "fonte_url": "https://fondazioneinarcassa.it/it/seminari/innovazione-gestione-processi-professionali-strumenti-operativi-casi-pratici-nuove-tecnologie",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "cni-2026-12-02-comportamento-meccanico-e-trattamento-dei-material",
@@ -506,11 +405,11 @@
       "costo_indicato": false,
       "link": "https://www.cni.it/eventi/dettaglievento/22187/-/comportamento-meccanico-e-trattamento-dei-materiali-metallici-nellindustria-approfondimenti-per-gli-ingegneri-industriali",
       "fonte_url": "https://www.cni.it/eventi/dettaglievento/22187/-/comportamento-meccanico-e-trattamento-dei-materiali-metallici-nellindustria-approfondimenti-per-gli-ingegneri-industriali",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "elearningonweb-2026-12-02-efficientamento-termo-acustico-nell-edilizia-legge",
-      "titolo": "Efficientamento termo‑acustico nell'edilizia leggera. Focus su sottofondi e sistemi radianti a secco",
+      "titolo": "Efficientamento termo‑acustico nell'edilizia leggera Efficientamento termo‑acustico nell'edilizia leggera. Focus su sottofondi e sistemi radianti a secco - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-02T13:45:00+01:00",
@@ -531,11 +430,11 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/james-hardie/efficientamento-termo%E2%80%91acustico-nelledilizia-leggera-focus-su-sottofondi-e-sistemi-radianti-a-secco-dicembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/james-hardie/efficientamento-termo%E2%80%91acustico-nelledilizia-leggera-focus-su-sottofondi-e-sistemi-radianti-a-secco-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-12-02-edifici-a-emissioni-zero-e-direttiva-epbd-iv-norma",
-      "titolo": "Edifici a emissioni zero e direttiva EPBD IV: normative, progettazione e tecnologie per la transizione energetica",
+      "id": "elearningonweb-2026-12-02-edifici-a-emissioni-zero-e-direttiva-epbd-iv-edifi",
+      "titolo": "Edifici a emissioni zero e direttiva EPBD IV Edifici a emissioni zero e direttiva EPBD IV: normative, progettazione e tecnologie per la transizione energetica - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-02T16:45:00+01:00",
@@ -555,11 +454,11 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/hoval/edifici-a-emissioni-zero-e-direttiva-epbd-iv-normative-progettazione-e-tecnologie-per-la-transizione-energetica-dicembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/hoval/edifici-a-emissioni-zero-e-direttiva-epbd-iv-normative-progettazione-e-tecnologie-per-la-transizione-energetica-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-12-03-dalle-fondazioni-al-tetto-verde-l-impermeabilizzaz",
-      "titolo": "Dalle fondazioni al tetto verde: l’impermeabilizzazione idroattiva autoriparante per interrati e coperture carrabili",
+      "id": "elearningonweb-2026-12-03-dalle-fondazioni-al-tetto-verde-dalle-fondazioni-a",
+      "titolo": "Dalle fondazioni al tetto verde Dalle fondazioni al tetto verde: l’impermeabilizzazione idroattiva autoriparante per interrati e coperture carrabili - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-03T13:45:00+01:00",
@@ -579,7 +478,29 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/draco/dalle-fondazioni-al-tetto-verde-limpermeabilizzazione-idroattiva-autoriparante-per-interrati-e-coperture-carrabili-dicembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/draco/dalle-fondazioni-al-tetto-verde-limpermeabilizzazione-idroattiva-autoriparante-per-interrati-e-coperture-carrabili-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
+    },
+    {
+      "id": "h25-2026-12-03-strategie-per-valorizzare-e-salvaguardare-il-futur",
+      "titolo": "Strategie per valorizzare e salvaguardare il futuro professionale dei progettisti italiani",
+      "organizzatore": "H25",
+      "piattaforma": "H25",
+      "data_inizio": "2026-12-03T15:00:00+01:00",
+      "data_fine": "2026-12-03T18:00:00+01:00",
+      "durata_ore": 3.0,
+      "orario_indicato": true,
+      "cfp": 3,
+      "stato_cfp": "accreditato",
+      "tipologia": "convegno",
+      "validita": "nazionale",
+      "codice_cni": null,
+      "area_tematica": [],
+      "deontologico": false,
+      "accesso": "registrazione_gratuita",
+      "costo_indicato": true,
+      "link": "https://www.h25.it/events/strategie-per-valorizzare-e-salvaguardare-il-futuro-professionale-dei-progettisti-italiani-1",
+      "fonte_url": "https://www.h25.it/events/strategie-per-valorizzare-e-salvaguardare-il-futuro-professionale-dei-progettisti-italiani-1",
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "anit-2026-12-03-progettazione-integrata-delle-partizioni-orizzonta",
@@ -604,11 +525,11 @@
       "costo_indicato": true,
       "link": "https://www.anit.it/prodotto/convegni/efficienza-energetica-isolamento-acustico-convegni/progettazione-integrata-delle-partizioni-orizzontali_bg_so/",
       "fonte_url": "https://www.anit.it/prodotto/convegni/efficienza-energetica-isolamento-acustico-convegni/progettazione-integrata-delle-partizioni-orizzontali_bg_so/",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-12-03-il-sistema-radiante-integrato-progettare-comfort-e",
-      "titolo": "Il sistema radiante integrato: progettare comfort ed efficienza energetica negli edifici di nuova generazione",
+      "id": "elearningonweb-2026-12-03-il-sistema-radiante-integrato-il-sistema-radiante",
+      "titolo": "Il sistema radiante integrato Il sistema radiante integrato: progettare comfort ed efficienza energetica negli edifici di nuova generazione - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-03T16:45:00+01:00",
@@ -628,7 +549,7 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/hitec/il-sistema-radiante-integrato-progettare-comfort-ed-efficienza-energetica-negli-edifici-di-nuova-generazione-dicembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/hitec/il-sistema-radiante-integrato-progettare-comfort-ed-efficienza-energetica-negli-edifici-di-nuova-generazione-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "cni-2026-12-04-le-macchine-dalla-direttiva-2006-42-ce-al-nuovo-re",
@@ -650,11 +571,11 @@
       "costo_indicato": false,
       "link": "https://www.cni.it/eventi/dettaglievento/22184/-/le-macchine-dalla-direttiva-2006-42-ce-al-nuovo-regolamento-ue-2023-1230",
       "fonte_url": "https://www.cni.it/eventi/dettaglievento/22184/-/le-macchine-dalla-direttiva-2006-42-ce-al-nuovo-regolamento-ue-2023-1230",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-12-09-green-roof-e-coperture-sostenibili-evoluzione-norm",
-      "titolo": "Green Roof e coperture sostenibili: evoluzione normativa, benefici prestazionali e strategie progettuali",
+      "id": "elearningonweb-2026-12-09-green-roof-e-coperture-sostenibili-green-roof-e-co",
+      "titolo": "Green Roof e coperture sostenibili Green Roof e coperture sostenibili: evoluzione normativa, benefici prestazionali e strategie progettuali - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-09T13:45:00+01:00",
@@ -674,11 +595,11 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/dorken-italia/green-roof-e-coperture-sostenibili-evoluzione-normativa-benefici-prestazionali-e-strategie-progettuali-dicembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/dorken-italia/green-roof-e-coperture-sostenibili-evoluzione-normativa-benefici-prestazionali-e-strategie-progettuali-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-12-09-recupero-e-consolidamento-delle-strutture-tra-inno",
-      "titolo": "Recupero e consolidamento delle strutture: tra Innovazione, Sostenibilità e Normativa",
+      "id": "elearningonweb-2026-12-09-recupero-e-consolidamento-delle-strutture-recupero",
+      "titolo": "Recupero e consolidamento delle strutture Recupero e consolidamento delle strutture: tra Innovazione, Sostenibilità e Normativa - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-09T16:45:00+01:00",
@@ -699,7 +620,7 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/saint-gobain/recupero-e-consolidamento-delle-strutture-tra-innovazione-sostenibilita-e-normativa-dicembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/saint-gobain/recupero-e-consolidamento-delle-strutture-tra-innovazione-sostenibilita-e-normativa-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "fondazioneinarcassa-2026-12-10-9-giornata-nazionale-della-prevenzione-sismica-10",
@@ -725,11 +646,11 @@
       "costo_indicato": false,
       "link": "https://fondazioneinarcassa.it/it/seminari/9a-giornata-nazionale-della-prevenzione-sismica-10-dicembre-2026",
       "fonte_url": "https://fondazioneinarcassa.it/it/seminari/9a-giornata-nazionale-della-prevenzione-sismica-10-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-12-14-riqualificazione-di-poli-residenziali-sistemi-a-se",
-      "titolo": "Riqualificazione di poli residenziali: sistemi a secco Off-site e soluzioni ibride per l'efficientamento dell'involucro. Cascina Merlata R9 – Milano",
+      "id": "elearningonweb-2026-12-14-riqualificazione-di-poli-residenziali-riqualificaz",
+      "titolo": "Riqualificazione di poli residenziali Riqualificazione di poli residenziali: sistemi a secco Off-site e soluzioni ibride per l'efficientamento dell'involucro. Cascina Merlata R9 – Milano - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-14T13:45:00+01:00",
@@ -751,11 +672,11 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/mannigroup/riqualificazione-di-poli-residenziali-sistemi-a-secco-off-site-e-soluzioni-ibride-per-lefficientamento-dellinvolucro-cascina-merlata-r9-milano-dicembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/mannigroup/riqualificazione-di-poli-residenziali-sistemi-a-secco-off-site-e-soluzioni-ibride-per-lefficientamento-dellinvolucro-cascina-merlata-r9-milano-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-12-15-sistemi-di-involucro-off-site-efficienza-comfort-e",
-      "titolo": "Sistemi di involucro off-site: efficienza, comfort e sicurezza attraverso le lane minerali",
+      "id": "elearningonweb-2026-12-15-sistemi-di-involucro-off-site-sistemi-di-involucro",
+      "titolo": "Sistemi di involucro off-site Sistemi di involucro off-site: efficienza, comfort e sicurezza attraverso le lane minerali - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-15T13:45:00+01:00",
@@ -777,11 +698,11 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/knaufinsulation/sistemi-di-involucro-off-site-efficienza-comfort-e-sicurezza-attraverso-le-lane-minerali-dicembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/knaufinsulation/sistemi-di-involucro-off-site-efficienza-comfort-e-sicurezza-attraverso-le-lane-minerali-dicembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
-      "id": "elearningonweb-2026-12-15-fse-approccio-ingegneristico-della-sicurezza-esemp",
-      "titolo": "FSE - Approccio ingegneristico della Sicurezza. Esempi pratici con calcolo manuale senza il ricorso di software",
+      "id": "elearningonweb-2026-12-15-fse-approccio-ingegneristico-della-sicurezza-fse-a",
+      "titolo": "FSE - approccio ingegneristico della sicurezza fse - approccio ingegneristico della sicurezza. esempi pratici con calcolo manuale senza il ricorso di software - elearningonweb - arkitectureonweb",
       "organizzatore": "elearningonweb",
       "piattaforma": "elearningonweb",
       "data_inizio": "2026-12-15T16:45:00+01:00",
@@ -803,7 +724,7 @@
       "costo_indicato": true,
       "link": "https://www.elearningonweb.com/it/-/safety-fire/fse-approccio-ingegneristico-della-sicurezza-esempi-pratici-con-calcolo-manuale-senza-il-ricorso-di-software-novembre-2026",
       "fonte_url": "https://www.elearningonweb.com/it/-/safety-fire/fse-approccio-ingegneristico-della-sicurezza-esempi-pratici-con-calcolo-manuale-senza-il-ricorso-di-software-novembre-2026",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     },
     {
       "id": "fondazioneinarcassa-2026-12-16-il-sistema-dinamico-di-acquisizione-un-mercato-dig",
@@ -829,7 +750,7 @@
       "costo_indicato": false,
       "link": "https://fondazioneinarcassa.it/it/seminari/sistema-dinamico-di-acquisizione-un-mercato-digitale-versatile-acquisti-di-beni-servizi",
       "fonte_url": "https://fondazioneinarcassa.it/it/seminari/sistema-dinamico-di-acquisizione-un-mercato-digitale-versatile-acquisti-di-beni-servizi",
-      "verificato_il": "2026-11-23"
+      "verificato_il": "2026-11-24"
     }
   ]
 }
